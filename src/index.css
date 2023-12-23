@@ -1,0 +1,10 @@
+body {
+  font-family: "Rubik Doodle Shadow", sans-serif;
+}
+#main-header li {
+  transition: all 0.3s ease-in-out;
+}
+
+#main-header li:hover {
+  transform: translateY(-2px);
+}
